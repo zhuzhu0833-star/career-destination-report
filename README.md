@@ -10,7 +10,7 @@ git clone https://github.com/zhuzhu0833-star/career-destination-report.git \
   ~/.cursor/skills/career-destination-report
 ```
 
-将 `zhuzhu0833-star` 替换为实际 GitHub 用户名或组织名。安装后重启 Cursor 或新开 Agent 对话即可发现该 skill。
+安装后重启 Cursor 或新开 Agent 对话即可发现该 skill。
 
 依赖（生成 Word 时）：
 
